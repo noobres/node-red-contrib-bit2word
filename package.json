@@ -1,0 +1,10 @@
+{
+  "name": "node-red-contrib-bit2word",
+  "version": "0.0.1",
+  "node-red" : {
+    "nodes": {
+        "bit2word": "bit2word.js"
+    }
+  },
+  "license": "Apache-2.0"
+}
